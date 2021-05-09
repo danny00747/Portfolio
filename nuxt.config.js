@@ -27,7 +27,7 @@ export default {
         titleTemplate: '%s - ' + process.env.npm_package_name,
         title: process.env.npm_package_name || '',
         htmlAttrs: {
-            lang: 'fr'
+            lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
@@ -69,7 +69,6 @@ export default {
      */
     buildModules: [
         // Doc: https://github.com/nuxt-community/eslint-module
-        '@nuxtjs/eslint-module',
         '@nuxtjs/vuetify'
     ],
     /*

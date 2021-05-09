@@ -1,35 +1,33 @@
 <template>
     <InfoCard color="green">
         <template v-slot:header>
-            <h2>Mon portfolio</h2>
+            <h2>Profile</h2>
         </template>
         <template v-slot>
             <p>
-                C’est sous l’impulsion de mon frère ainé que j’ai commencé à
-                programmer, il y a déjà longtemps.<br />
-                J’avais en effet 12 ans et j’ai suivi quelques stages à
-                Technofutur TIC. Il s’agissait d’utiliser robocode, un jeu de
-                programmation dont l'objectif était de développer un tank robot
-                personnel afin de défier les autres tanks en temps réel. Le
-                langage de programmation que j’utilisais était le java.
+                An enthusiastic hands-on, detail-oriented third-year computer 
+                science student at EPHEC.<br />
+                Offering a pro-actice approach and determination to meet all assigned 
+                goals and objectives. Effective team player with excellent analytical 
+                skills and the important ability to solve complex problems and i'm always 
+                looking for new ventures where i can apply my expertise, learn and evolve.
             </p>
             <p>
-                Depuis lors, j’ai consacré d’innombrables heures à programmer
-                dans plusieurs langages. Au cours de mes années du cycle
-                secondaire, je me souviens avoir fréquemment rêvé aux études du
-                cycle supérieur et je me projetais en train de résoudre des
-                problèmes en écrivant de nombreuses lignes de code.
+                Exemplary verbal and written communicator who demonstrates professionalism 
+                and clearly conveys project parameters to clients and team members.
+
+                Determination & perseverance are traits that are intrinsically associated 
+                with my personality.
             </p>
             <div>
-                Mes devises sont :
                 <ul class="font-weight-bold">
-                    <li>Imagination is more important than knowledge</li>
-                    <li>
-                        Learn from yesterday, live for today, hope for tomorrow.
-                        The important thing is not to stop questioning
-                    </li>
+                    <li>That which does not kill us makes us stronger.</li>
                 </ul>
-                <blockquote class="font-italic">Albert Einstein</blockquote>
+                <blockquote class="font-italic">Friedrich Nietzsche</blockquote>
+                <ul class="font-weight-bold">
+                    <li> Intelligence is the ability to adapt to change. </li>
+                </ul>
+                <blockquote class="font-italic">Stephen Hawking</blockquote>
             </div>
         </template>
     </InfoCard>

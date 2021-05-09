@@ -1,33 +1,29 @@
 <template>
     <InfoCard color="orange">
         <template v-slot:header>
-            <h2>Mon projet professionnel</h2>
+            <h2>Personal projection</h2>
         </template>
         <template v-slot>
             <p>
-                C’est avec enthousiasme que je termine mes études de bachelier
-                en Technologie de l'informatique.
+                It is with enthusiasm that I am finishing my bachelor's degree 
+                in Computer Technology.
             </p>
             <p>
-                J'estime que l’ensemble des compétences développées au cours de
-                ces années académiques pourra servir efficacement mon futur
-                employeur. Je pense que j’ai acquis une solide expérience
-                technique et que je maîtrise les principaux langages utilisés
-                couramment dans les départements IT.
+                I believe that all the skills developed during these academic years can 
+                effectively serve my future employer. I believe to have acquired a solid 
+                technical background and that I have mastered the main languages ​​commonly 
+                used in IT departments.
             </p>
             <p>
-                Organisé, travailleur et curieux de nature, j’apprécie
-                particulièrement acquérir de l’expertise dans de nouveaux
-                domaines. J’aime le travail en équipe mais je suis aussi capable
-                de travailler de manière autonome lorsque cela s’avère plus
-                productif.
+                Organized, hardworking and curious by nature, I particularly enjoy acquiring 
+                expertise in new areas. I enjoy working in a team, but I am also able to work 
+                independently when it is more productive.
             </p>
             <p>
-                Je serai ravi de pouvoir mettre mes connaissances et mon
-                professionnalisme au service de mon futur employeur. Ma
-                motivation, ma rigueur, ainsi que mon esprit d‘équipe sont
-                quelques qualités qui pourront être appréciées, je pense, dans
-                le cadre d’un début de carrière.
+                I will be delighted to put my knowledge and my professionalism 
+                at the service of my future employer. My motivation, my rigor, as well as 
+                my team spirit are some qualities that can be appreciated, I think, as part 
+                of a career start.
             </p>
         </template>
     </InfoCard>

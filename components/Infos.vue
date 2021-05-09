@@ -1,7 +1,7 @@
 <template>
     <InfoCard>
         <template v-slot:header>
-            <h2>Quelques informations à mon propos</h2>
+            <h2>Personal information</h2>
         </template>
         <template v-slot>
             <v-list-item v-for="key in keys" :key="key.key">

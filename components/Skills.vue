@@ -1,7 +1,7 @@
 <template>
     <InfoCard>
         <template v-slot:header>
-            <h2>Compétences et CV</h2>
+            <h2>Skills & CV</h2>
         </template>
         <template v-slot>
             <ul>
@@ -9,15 +9,15 @@
                 <li>Java</li>
                 <li>VueJs</li>
                 <li>Docker</li>
-                <li>Git</li>
+                <li>C</li>
                 <li>Angular</li>
-                <li>REST</li>
+                <li>SQL</li>
             </ul>
             <v-btn
                 class="mt-3"
                 href="/DANIEL_OLIVIER_V3_CV.pdf"
                 color="secondary"
-                >Resume</v-btn
+                >CV</v-btn
             >
         </template>
     </InfoCard>

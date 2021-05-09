@@ -12,7 +12,7 @@
                 :footer-props="{
                     'items-per-page-options': [5, 10, 15, 20, -1]
                 }"
-                :items-per-page="5"
+                :items-per-page="20"
                 sort-by="tag"
             >
                 <template v-slot:item.title="{ item }">
