@@ -1,15 +1,12 @@
 export default [
-    'advent-of-code',
-    'assyst-europe',
-    'azure',
-    'bewan',
-    'formation-vue',
+    'aws',
+    'dev-ops',
+    'cyber-security',
     'fosdem-2019',
     'fosdem-2020',
-    'malta',
     'odoo',
-    'portes-ouvertes',
     'portfolio',
-    'search',
+    'java-spring',
+    'smals',
     'tutorat'
 ]

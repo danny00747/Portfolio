@@ -2,8 +2,9 @@
 title: 'FOSDEM`20'
 time: '10:00'
 tag: 'Conference'
-img: '2020-fosdem-2.jpg'
-imgs: '2020-fosdem-1.jpg'
+img: 
+    - '2020-fosdem-2.jpg'
+    - '2020-fosdem-1.jpg'
 ---
 
 [FOSDEM](https://fosdem.org "fosdem") is a completely free event for software developers to meet, share ideas and collaborate.
@@ -14,7 +15,7 @@ I was there for the first time in February 2019. Having found the experience ver
 In addition to the many presentations, stands can be used to share information, demonstration software or even sell merchandise, give gifts and, above all, for exhibitors to
 introduce themselves to the many visitors.
 
-These are some of the FOSDEM'20 conferences i was able to attend : 
+These are some conferences i was able to attend during FOSDEM 2020: 
 
 <details>
   <summary> <b> Saturday 1st Feb 2020 </b></summary>
@@ -51,3 +52,4 @@ These are some of the FOSDEM'20 conferences i was able to attend :
 
 <br/>
 
+>>```PS: Click on right side on of the picture to see next one !```

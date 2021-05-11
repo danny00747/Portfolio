@@ -24,11 +24,6 @@
                     <Gallery v-if="img.constructor === Array" :imgs="img" />
                     <v-img v-else-if="img" :src="`/imgs/${img}`" />
                 </div>
-                <v-divider v-if="imgs" vertical></v-divider>
-                <div v-if="imgs">
-                    <Gallery v-if="imgs.constructor === Array" :imgs="imgs" />
-                    <v-img v-else-if="imgs" :src="`/imgs/${imgs}`" />
-                </div>
             </v-card-text>
         </v-card>
     </v-container>

@@ -1,35 +1,42 @@
 ---
-title: 'Création du portfolio'
+title: 'Portfolio Development'
 tag: 'Frontend Development'
 time: '10:00'
-img: 'portfolio-pagespeed.png'
+img: 
+    - 'portfolio-pagespeed.png'
+    - 'lighthouse.png'
+    - 'jamstack.png'
 ---
 
-# Technologie
+# Technologies used - Jamstack -
 
-Pour la réalisation de ce portfolio, voici les technologies que j'ai utilisées.
+<br>
+For the development of this portfolio, here are the technologies that I used :
+
+<br>
 
 - NuxtJS
 - MarkdownIt
 - Vuetify
-- et d'autres ...
 
+<br>
 
-J'utilise comme stack le 'Jamstack'. Le Jamstack n'est pas à propos de technologies spécifiques mais plutôt une nouvelle
-manière de construire des sites web qui permet d'avoir de meilleurs performances, une sécurité plus élevée ainsi qu'une
-meilleure expérience développeur. Pourquoi attendre la construction de pages en direct quand on peut les générer à
-l'avance ? Pour ce faire, j'ai utilisé NuxtJS qui m'a permis de générer un site statique qui peut ensuite être facilement déployé.
-Grâce à cela, mon site web obtient 100 % d'indice de performance sur l'outil
-[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fportfolio.simplenotes.be%2F&tab=desktop).
+I used a stack called **Jamstack**. The “JAM” in JAMstack stands for JavaScript, APIs, and Markup. JAMstack’s pattern of architecture makes web applications less expensive to build and more secure, with better performance and scalability.
 
-# Contenu
+With the JAMstack approach, every page is compiled (or built) ahead of time when the application is deployed. All the HTML, JavaScript, CSS, and images required for the application are fully “baked” ahead of time.The goal is to avoid as much server executed code as possible because serving static files is faster and far simpler than executing server-side code.
 
-Chaque activité est dans son propre fichier markdown. Celui-ci contient des métadonnées telles que le titre ou encore
-le temps comptabilisé, ainsi que le contenu principal.
-Une page est générée pour chacune des activités. Les données
+So question here is why wait for pages to be built when you generate them in advance ? To do that, i used NuxtJS which enabled to generate a static website which can easily be deployed anywhere. For that reason my site gets a 100% performance score on this tool [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Folivier-daniel.netlify.app%2F&tab=desktop).
+
+# Contents
+
+<br>
+
+Every activity is in its own markdown file. The latter has metadata such as title or time of the activity in question. And a page is generated for every activity. 
  
-# Tableau récapitulatif
+# Recap Table
 
-La page d'accueil contient un tableau récapitulatif des différentes activités, du temps effectué ainsi que de 
-la catégorie de celle-ci. Celui-ci est automatiquement généré à partir des fichiers markdown disponible.
-Également, le total des heures validées est automatiquement calculé.
+<br>
+
+The home page contains un recap table of different activities, type of the latter and finally the time spent of each activity. The total hours spent is computed automatically. 
+
+>>```PS: Click on right side on of the picture to see next one !```

@@ -1,13 +1,9 @@
 ---
-title: 'Tutorat'
-tag: 'Formation'
+title: 'Tutoring'
+tag: 'Voluntary Work'
 time: '10:00'
 img: 'tutorat.png'
 ---
 
-Deux représentants de chez Microsoft sont venus nous présenter la suite Azure.
-Ils nous ont présentés de nouvelles manières de déployer des solutions informatiques dans trop penser à l'architecture et
-pouvant scaler de manière presque infinie. En effet, ils proposent plus de 200 produits différents.
-
-Nous avons eu un aperçu de cette plateforme en apprenant à déployer une webapp sur le cloud.
-Il est vrai que c'est assez facile même si cela a un coût.
+During my second at EPHEC i was fortunate to be a tutor who provides assistance or tutelage to one or more people on the programming course given to 1st grade students at EPHEC in IT. 
+ 

@@ -1,7 +1,7 @@
 <template>
     <InfoCard color="green">
         <template v-slot:header>
-            <h2>Projects</h2>
+            <h2>Activities</h2>
         </template>
         <template v-slot>
             <v-data-table
@@ -10,9 +10,9 @@
                 :show-sort-icons="true"
                 :sort-desc="[false, true]"
                 :footer-props="{
-                    'items-per-page-options': [5, 10, 15, 20, -1]
+                    'items-per-page-options': [5, 10, 20, -1]
                 }"
-                :items-per-page="20"
+                :items-per-page="10"
                 sort-by="tag"
             >
                 <template v-slot:item.title="{ item }">

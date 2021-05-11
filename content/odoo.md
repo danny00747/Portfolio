@@ -1,31 +1,25 @@
 ---
-title: 'Odoo'
-time: '01:30'
-tag: 'Presentation'
-img: 'jpo-odoo.jpg'
+title: 'Odoo R&D Developer'
+tag: 'Programming Challenge'
+time: '01:40'
+img: 
+    - 'odoo-1.png'
+    - 'odoo-2.png'
+    - 'odoo-3.png'
+    - 'odoo-5.png'
+    - 'odoo-4.png'
+    - 'odoo-6.png'
 ---
 
-Deux représentants de la firme brabançonne Odoo sont venus présenter leur société et la gamme de produits en novembre 2018.
+At the end of April 2021 i did a programming challenge organised by **Odoo** for an R&D Developer recruitment process. The technical test had 5 questions, 3 of them were data structure & algorithms questions and the last one was about databases.
+
+My test report can seen below as well as some of the 5 questions : 
 
 
-OpenERP, société belge créée en 2005, a changé de nom en mai 2014 pour prendre celui d’Odoo.
-Leur mission est de fournir une gamme d'applications professionnelles faciles à utiliser, qui forment une suite complète d'outils et qui répondant aux besoins des entreprises. 
-Odoo a développé quelque 30 applications.
-Le prologiciel principal est une suite d'applications professionnelles et open source couvrant les besoins des entreprises
-: 
-- CRM
-- eCommerce
-- comptabilité
-- inventaire
-- point de vente
-- gestion de projets
-- etc
+>>```PS: Click on right side on of the picture to see next one !```
 
-Il compte plusieurs millions d’utilisateurs.
 
-Frequemment, les firmes ont sélectionné Odoo pour la facilité de mise en œuvre de ses modules standards qui permettent la gestion de toutes les activités de l’organisation er ceci, semble t’il à un prix très compétitif.
-La flexibilité d’Odoo due à sa grande modularité lui confère aussi un avantage non négligeable.
-Odoo permet aussi de connecter l’application à n’importe quel portail web ou logiciel grâce à ses API prêts à l’emploi.
+
 
 
 
