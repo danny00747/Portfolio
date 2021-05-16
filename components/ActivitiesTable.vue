@@ -65,7 +65,7 @@ export default {
         headers: [
             { text: 'Title', align: 'start', value: 'title', sortable: true },
             {
-                text: 'Hours spent',
+                text: 'Justified hours',
                 value: 'time',
                 align: 'center',
                 sortable: true

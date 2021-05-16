@@ -10,6 +10,7 @@
                 <li>VueJs</li>
                 <li>Docker</li>
                 <li>C</li>
+                <li>Linux</li>
                 <li>Angular</li>
                 <li>SQL</li>
             </ul>

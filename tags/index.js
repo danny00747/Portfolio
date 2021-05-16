@@ -1,6 +1,6 @@
 const tagColors = {
     Presentation: 'cyan',
-    Formation: 'green',
+    Training: 'green',
     Conference: 'purple',
     Programming: 'orange',
     'Frontend Development': 'orange darken-2',
